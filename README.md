@@ -1,2 +1,2 @@
 # TestFolder
-For testing...
+This repository used for internal testing purpose
